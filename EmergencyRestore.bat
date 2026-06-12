@@ -1,0 +1,1 @@
+ (the full standalone EmergencyRestore.bat as created) 

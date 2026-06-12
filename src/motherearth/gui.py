@@ -1,0 +1,1 @@
+ (full updated gui.py content with emergency button and _launch_emergency method as per edits - abbreviated for response but in actual push full) 

@@ -1,0 +1,4 @@
+psutil>=5.9.0
+Pillow>=10.0.0
+pystray>=0.19.0
+# PyInstaller is required only for building the .exe (pip install pyinstaller)
